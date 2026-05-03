@@ -13,4 +13,4 @@ while ht < x:
     time = time + 1
     i = i + 1
 
-print("Time:", time)
+print(time)
